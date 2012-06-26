@@ -1,0 +1,2 @@
+F:\VisualStudio2008\SilkroadMapEdit\SilkroadMapEdit\SilkroadMapEditContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bLooD\Desktop\SilkroadMapEditor\SilkroadMapEdit\SilkroadMapEditContent\obj\x86\Debug\ResolveAssemblyReference.cache
